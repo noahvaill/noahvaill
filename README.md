@@ -1,6 +1,6 @@
 3rd year SWE student @ mcgill university.
 
-experience: financial markets, PE value creation.
+experience: financial markets, PE value creation and barman.
 
 involved in some clubs too.
 
